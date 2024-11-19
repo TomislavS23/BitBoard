@@ -1,0 +1,3 @@
+[submodule "bitboard-mobile"]
+	path = bitboard-mobile
+	url = git@github.com:TomislavS23/bitboard-mobile.git

@@ -1,3 +1,6 @@
 [submodule "bitboard-mobile"]
 	path = bitboard-mobile
 	url = git@github.com:TomislavS23/bitboard-mobile.git
+[submodule "bitboard-api"]
+	path = bitboard-api
+	url = git@github.com:TomislavS23/bitboard-api.git
